@@ -15,7 +15,7 @@ The team at MHS Unblocked Games is dedicated to unblocking games blocked by Fort
 
 ### Using our games library
 
-Our games library can freely be reused and embed, some games may have issues surrounding being embed implemented by the games devolopers.
+Our games library can freely be reused and embed, some games may have issues surrounding being embed implemented by the games developers.
 
 ### Contact
 
