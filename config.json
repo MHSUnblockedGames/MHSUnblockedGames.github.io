@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "name": "Tetris",
+      "path": "gamesFolder/Tetris/index.html",
+      "icon": "gamesFolder/Tetris/icon.png"
+    },
+    {
+      "name": "Minecraft (Eaglercraft)",
+      "path": "https://mhsunblockedgames.github.io/EaglercraftLauncher/",
+      "icon": "gamesFolder/Eaglercraft/icon.png"
+    }
+  ]
+}

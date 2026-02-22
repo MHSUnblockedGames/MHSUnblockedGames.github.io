@@ -1,7 +1,7 @@
-.hr {
+hr {
   border-top: 10px solid #ffca56;
 }
-.img {
+img {
     border-radius: 10%;
 }
 .box {
@@ -35,29 +35,3 @@
 }
 
 
-
-.games {
-    grid-area: games;
-    background-color: #ffe4aa;
-    display: flex;
-    flex-direction: row;
-    order: 0;
-    flex-grow: 0;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-}
-.gamebutton {
-    background-color: transparent;
-    border-color: transparent;
-    margin-top: 40px;
-    font-size: 200%;
-    cursor: pointer;
-    transition: .18s all;
-}
-.gamebutton:hover {
-    transform: scale(1.1);
-}
-.gamebutton:active {
-    transform: scale(0.9);
-}
